@@ -1,0 +1,7 @@
+langue : java 
+git :
+   profondeur : 1 
+dist : xenial 
+cache :
+   répertoires :
+    - $ HOME / .m2
