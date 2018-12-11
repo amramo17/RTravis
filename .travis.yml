@@ -3,5 +3,5 @@ git :
    profondeur : 1 
 dist : xenial 
 cache :
-   répertoires :
+   rÃ©pertoires :
     - $ HOME / .m2
